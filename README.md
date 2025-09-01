@@ -25,10 +25,10 @@
   </p>
 
   <h3>✨ Highlights</h3>
-  - 4+ years of experience in full-stack development (MERN, PHP/MySQL, Strapi CMS, Shopify, CRM platforms).<br>
-  - Skilled in designing APIS, responsive UI, and seamless data workflows.<br>
-  - Passionate about code quality, scalable architecture, and clean design.<br>
-  - Continually exploring new frameworks and developer-centric tools.
+  # 4+ years of experience in full-stack development (MERN, PHP/MySQL, Strapi CMS, Shopify, CRM platforms).<br>
+  # Skilled in designing APIS, responsive UI, and seamless data workflows.<br>
+  # Passionate about code quality, scalable architecture, and clean design.<br>
+  # Continually exploring new frameworks and developer-centric tools.
 
   <h3> Let's Connect</h3>
   <p>
